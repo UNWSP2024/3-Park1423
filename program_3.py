@@ -1,7 +1,7 @@
 ##
 # Code by Parker Jolly
-# Made with VS Code
 # 9/18/2025
+# Name: Shipping cost calculator
 ##
 
 def weight_conversion(weight):
