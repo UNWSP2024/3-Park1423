@@ -1,0 +1,15 @@
+##
+# Pseudocode by Parker Jolly
+# 9/18/2025
+# Name: Program 2 Pseudocode
+##
+
+
+#Have user input age.
+#
+#Check if we are an infant, if so, tell the user.
+#Else if we are a child, tell the user.
+#Else if we are a teenager, tell the user.
+#Else if we are an adult, tell the user.
+#
+#End.
