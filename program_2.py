@@ -1,7 +1,7 @@
 ##
 # Code by Parker Jolly
-# Made with VS Code
 # 9/18/2025
+# Name: Age classifier
 ##
 
 def categorize_age(age):
