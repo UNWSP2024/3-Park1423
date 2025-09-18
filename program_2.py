@@ -1,3 +1,8 @@
+##
+# Code by Parker Jolly
+# Made with VS Code
+# 9/18/2025
+##
 
 def categorize_age(age):
     
@@ -15,7 +20,7 @@ def categorize_age(age):
     elif age > 120:
         ageCategory = "dinosaur"
     else:
-        ageCategory = "thats not an age"
+        ageCategory = "That's not an age"
 
     return ageCategory
 
